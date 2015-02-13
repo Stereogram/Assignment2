@@ -1,0 +1,54 @@
+Test 1
+ 1 6 
+ 2 8 
+ 3 7 
+ 3 8 
+ 4 9 
+ 5 7 
+ 6 8 
+ 7 9 
+ Data-center: 1
+
+Test 2
+ No new data cables required.
+ Data-center: 1
+
+Test 3
+ No new data cables required.
+ Data-center: 1
+
+Test 4
+lab: 1 1000, 5000
+lab: 2 0, 0
+lab: 3 3000, 2000
+lab: 4 4000, 5000
+lab: 5 5000, 1000
+lab: 6 0, 4000
+lab: 7 5000, 2000
+lab: 8 1000, 2000
+lab: 9 5000, 3000
+
+lab: 1 9, 7
+
+lab: 1 3, 1
+
+lab: 1 4200, 3000
+lab: 2 4200, 4000
+lab: 3 1, 2
+lab: 4 5, 4
+lab: 5 1000, 1000
+lab: 6 2000, 1000
+lab: 7 1000, 2000
+lab: 8 0, 1000
+lab: 9 1000, 0
+lab: 10 1, 2
+lab: 11 1, 3
+lab: 12 1, 4
+lab: 13 1, 5
+lab: 14 5, 0
+lab: 15 1000, 1000
+lab: 16 2000, 1000
+lab: 17 1000, 2000
+lab: 18 0, 1000
+lab: 19 1000, 0
+
